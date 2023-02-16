@@ -2,3 +2,11 @@ Node runs JavaScript outside the browser
 (A) Javascript can be used to build Real-time Networking Applications like Chats, Video streaming services, command line tools (B) It can be used to add interactive behaviour to web pages. (C) It can be used in game development (D) JavaScript can also be used for web development on the server. (E) JavaScript is also an excellent language for working with AI.
 The first version of ECMAScript was released in 1997
 To open the browser console, right-click on the page and select Inspect, and then click Console.
+The tech field that use javascript is (A) Front-end development (B) Backend development
+(C) Full stack developer (D) Web Application Developer (E) JavaScript Developer (F) DevOps Engineer (E) Javascript Developer
+The difference between statically and dynamically typed programming language is that Statically typed programming languages do type checking at compile-time. Examples: Java, C, C++.
+Dynamically typed programming languages do type checking at run-time.
+Examples: Perl, Ruby, Python, PHP, JavaScript
+The difference between null and undefined in JavaScript is that null is used to assign a non-value to a variable while undefined is used when a variable is declared but not assigned with a value.
+
+
